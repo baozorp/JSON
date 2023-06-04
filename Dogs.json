@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Colin",
+    "description": "German Shepherd: Colin is a courageous and loyal German Shepherd. He is known for his intelligence and protective nature. Colin is a great companion for outdoor activities and is always ready to keep his loved ones safe.",
+    "age": 10,
+    "image": "https://raw.githubusercontent.com/baozorp/JSON/master/1.png"
+  },
+  {
+    "id": 2,
+    "name": "Manesy",
+    "description": "Corgi: Manesy is an adorable and playful Corgi. She has a charming personality and loves to entertain everyone around her. Manesy enjoys herding games and spending quality time with her favorite humans.",
+    "age": 3,
+    "image": "https://raw.githubusercontent.com/baozorp/JSON/master/2.png"
+  },
+  {
+    "id": 3,
+    "name": "Alex",
+    "description": "Corgi: Alex is a lively and friendly Corgi. He has a cheerful nature and enjoys being the center of attention. Alex loves going on adventures, meeting new friends, and bringing joy to everyone he encounters.",
+    "age": 2,
+    "image": "https://raw.githubusercontent.com/baozorp/JSON/master/3.png"
+  },
+  {
+    "id": 4,
+    "name": "Lotay",
+    "description": "Beagle: Lotay is an inquisitive and friendly Beagle. He is known for his keen sense of smell and excellent tracking abilities. Lotay enjoys exploring new scents and going on exciting scent-based adventures with his family.",
+    "age": 2,
+    "image": "https://raw.githubusercontent.com/baozorp/JSON/master/4.png"
+  },
+  {
+    "id": 5,
+    "name": "Lory",
+    "description": "Bloodhound: Lory is a gentle and loyal Bloodhound. She has a calm and patient temperament, making her an ideal companion. Lory is excellent at tracking scents and has a remarkable ability to follow trails with precision.",
+    "age": 10,
+    "image": "https://raw.githubusercontent.com/baozorp/JSON/master/5.png"
+  },
+  {
+    "id": 6,
+    "name": "Milo",
+    "description": "Basenji: Milo is an intelligent and energetic dog. Basenjis are known for their alertness and independence. Milo loves exploring his surroundings and is always on the lookout for new adventures.",
+    "age": 5,
+    "image": "https://raw.githubusercontent.com/baozorp/JSON/master/6.png"
+  },
+  {
+    "id": 7,
+    "name": "Luna",
+    "description": "Bernese Mountain Dog: Luna is a gentle giant with a sweet and calm personality. Bernese Mountain Dogs are known for their loyalty and love for their families. Luna enjoys leisurely walks and spending time with her loved ones.",
+    "age": 4,
+    "image": "https://raw.githubusercontent.com/baozorp/JSON/master/7.png"
+  },
+  {
+    "id": 8,
+    "name": "Charlie",
+    "description": "Golden Retriever: Charlie is a friendly and intelligent dog. Golden Retrievers are known for their loyalty and love for playtime. Charlie enjoys retrieving balls and swimming in the water.",
+    "age": 6,
+    "image": "https://raw.githubusercontent.com/baozorp/JSON/master/8.png"
+  },
+  {
+    "id": 9,
+    "name": "Bella",
+    "description": "Eskimo Dog: Bella is a lively and affectionate dog. Eskimo Dogs are known for their alertness and lively nature. Bella enjoys learning new tricks and being the center of attention.",
+    "age": 3,
+    "image": "https://raw.githubusercontent.com/baozorp/JSON/master/9.png"
+  },
+  {
+    "id": 10,
+    "name": "Max",
+    "description": "Jack Russell Terrier: Max is an energetic and fearless dog. Jack Russell Terriers are known for their intelligence and agility. Max loves challenging puzzles and playing fetch.",
+    "age": 7,
+    "image": "https://raw.githubusercontent.com/baozorp/JSON/master/10.png"
+  }
+]
